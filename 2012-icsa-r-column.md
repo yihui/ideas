@@ -1,8 +1,7 @@
 # Turn Research into Fun, and Vice Versa
 
 Yihui Xie
-102 Snedecor Hall, Ames, IA 50011
-Email: xie@yihui.name Homepage: http://yihui.name
+(Address: 102 Snedecor Hall, Ames, IA 50011; Email: xie@yihui.name Homepage: http://yihui.name)
 
 I really appreciate the opportunity offered by our editor Jun Yan asking me to write a short article on the R language. I thought for a while, and decided not to write it in a technical manner. I want to summarize what I have done in my 7 years of using R, and I hope my experience can be helpful to the student readers of this bulletin.
 
